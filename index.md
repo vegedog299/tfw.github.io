@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+![IMG 20210629 194938](https://z3.ax1x.com/2021/07/19/WG5QdU.md.jpg)
 
-You can use the [editor on GitHub](https://github.com/vegedog299/tfw.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcom here,this is the website of Tsingqu Jay(299)   
+****
+## 姓名：周清渠
+## 生日：2001.01.06
+## 本科：武汉理工大学	 
+## 专业：材料科学与工程(锂电池、~~增材制造~~)	
+## 爱好：摄影📸、足球⚽
+### 😊 Work experience  
+- 2018.11-2020.06 院科协
+- 2019.09-2021.06 图管会
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 😁 Honorary and award
 
-### Markdown
+- 校三等奖学金（2019）
+- 院级社会实践先进个人（2019）
+- 图书馆优秀个人（2020）
+- 团委优秀部长（2020）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 😄Research progress
 
-# Header 1
-## Header 2
-### Header 3
+- [x] Synthesis GeO2
+- [ ] Li3VO4 Anode Material of LIB
+- [ ] SiOx-Mxene Anode Material of LIBS   
 
-- Bulleted
-- List
+### 😃 My achievement  
 
-1. Numbered
-2. List
+- [Constructing Three-Dimensional Macroporous TiO2 Microspheres with Enhanced Pseudocapacitive Lithium Storage under Deep Discharging/Charging Conditions](https://pubs.acs.org/doi/abs/10.1021/acsami.1c02411)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 我是Liverpool球迷  （You will never walk alone!!!）
+> [liverpool](https://www.liverpoolfc.com/)  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![img](https://img0.baidu.com/it/u=3368710521,67044855&fm=26&fmt=auto&gp=0.jpg)
 
-### Jekyll Themes
+![img](https://img0.baidu.com/it/u=2207035734,81493812&fm=26&fmt=auto&gp=0.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vegedog299/tfw.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 我最喜欢的番是 *记录的地平线（Log horizon）* 
 
-### Support or Contact
+> 《记录的地平线》是轻小说家橙乃真希著作，插画家原和弘负责插画，Fami通文库所属的轻小说，前十四章已被动画化。  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![img](https://img1.baidu.com/it/u=1626629119,1641589869&fm=26&fmt=auto&gp=0.jpg)
+
+![img](https://img0.baidu.com/it/u=815463727,3373309616&fm=26&fmt=auto&gp=0.jpg)
+
+### 最喜欢的歌手是陈奕迅（eason）,杨宗纬、金玟岐、李宗盛等人的歌我也很喜欢。  
+
